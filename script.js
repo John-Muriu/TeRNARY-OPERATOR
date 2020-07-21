@@ -12,7 +12,7 @@ if (age >= 18) {
 
 console.log((age >= 18) ? "You are an adult!" : "You are a kid.");
 
-var stop;
+var stop; //var
 
 age > 18 ? (
     console.log("OK, you can go."),
@@ -26,4 +26,4 @@ var firstCheck = false,
     secondCheck = false,
     access = firstCheck ? "Access denied" : secondCheck ? "Access denied" : "Access granted";
 
-console.log(access);
+console.log(access); // access granted
