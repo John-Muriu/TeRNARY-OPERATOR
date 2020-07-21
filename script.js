@@ -1,6 +1,6 @@
 // JS Nuggets: Ternary Operator
 
-// condition ? expr1 : expr2
+//  the syntax condition ? expr1 : expr2
 
 var age = 15;
 
